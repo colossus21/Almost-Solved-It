@@ -1,6 +1,6 @@
-###`8 Puzzle Solver`
+`8 Puzzle Solver`
 
-######The puzzle can be solved by moving the tiles one by one in the single empty space and thus achieving the Goal configuration
+The puzzle can be solved by moving the tiles one by one in the single empty space and thus achieving the Goal configuration
 
 Eg. For puzzle configuration -
 ```go
